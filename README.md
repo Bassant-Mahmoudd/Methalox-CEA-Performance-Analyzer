@@ -24,10 +24,8 @@ The project is structured as a modular software pipeline:
 *   **Chamber Pressure Effects:** Increasing chamber pressure up to 100 atm actively suppresses the dissociation of $CO_2$ and $H_2O$, converting more chemical energy into sensible heat and boosting performance metrics.
 
 
-<img width="3000" height="1800" alt="Plot5_Optimization" src="https://github.com/user-attachments/assets/e648183a-7a1b-4dfb-967d-45763edbb39a" />
+
 <img width="3000" height="1800" alt="Plot3_MainSpecies_100atm" src="https://github.com/user-attachments/assets/7f596246-f72d-4615-992b-8efc5078c4c8" />
-<img width="3000" height="1800" alt="Plot3_MainSpecies_80atm" src="https://github.com/user-attachments/assets/8a7c95e0-7da4-4b5c-afab-28fa8d5025f6" />
-<img width="3000" height="1800" alt="Plot3_MainSpecies_60atm" src="https://github.com/user-attachments/assets/d5eb497f-2078-4be8-9158-20c4473d6321" />
 <img width="3000" height="1800" alt="Plot3_MainSpecies_30atm" src="https://github.com/user-attachments/assets/bc08a4d4-5f9a-4144-aef3-bd830f47bf0f" />
 <img width="3000" height="1800" alt="Plot2B_Cstar" src="https://github.com/user-attachments/assets/9bfb4c1f-43fe-44ef-bd1c-e062d0b24fc0" />
 <img width="3000" height="1800" alt="Plot2A_Isp" src="https://github.com/user-attachments/assets/d970a817-066c-46f1-b12d-b8bbbd832b8c" />
